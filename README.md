@@ -27,4 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Abdurrahman075/trace_moe/pull/3) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+2. 🎉 Merged PR [#1](https://github.com/Abdurrahman075/trace_moe/pull/1) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+3. 🎉 Merged PR [#2](https://github.com/Abdurrahman075/trace_moe/pull/2) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
 <!--END_SECTION:activity-->
