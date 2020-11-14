@@ -19,7 +19,7 @@
 
 ## Links
 
-<a href="mailto:fayyadh.abdurrahman607@gmail.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email"/></a>
+<a href="mailto:fayyadh.abdurrahman007@gmail.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email"/></a>
 <a href="https://www.facebook.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook"/></a>
 <a href="https://twitter.com/fayyadh_75"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/></a>
 <a href="https://www.instagram.com/fayyadh_75"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram"/></a>
