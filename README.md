@@ -9,7 +9,7 @@
 
 ## GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=Abdurrahman075&show_icons=true&theme=dark)](https://github.com/Abdurrahman075)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman075&layout=compact&theme=blue)](https://github.com/Abdurrahman075)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman075&layout=compact&theme=dark)](https://github.com/Abdurrahman075)
 
 ## Language & Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=20> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=20> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
