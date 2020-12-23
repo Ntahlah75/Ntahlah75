@@ -27,7 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Bintang73/botst4rz/issues/2) in [Bintang73/botst4rz](https://github.com/Bintang73/botst4rz)
-2. 💪 Opened PR [#407](https://github.com/is-a-dev/register/pull/407) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#3](https://github.com/Abdurrahman075/trace_moe/pull/3) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+1. 🎉 Merged PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+2. 💪 Opened PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+3. 🗣 Commented on [#2](https://github.com/Bintang73/botst4rz/issues/2) in [Bintang73/botst4rz](https://github.com/Bintang73/botst4rz)
 <!--END_SECTION:activity-->
