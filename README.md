@@ -27,7 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
-2. 💪 Opened PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
-3. 🗣 Commented on [#2](https://github.com/Bintang73/botst4rz/issues/2) in [Bintang73/botst4rz](https://github.com/Bintang73/botst4rz)
+1. 💪 Opened PR [#1](https://github.com/aoi-discord-bot/assets/pull/1) in [aoi-discord-bot/assets](https://github.com/aoi-discord-bot/assets)
+2. 🎉 Merged PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
+3. 💪 Opened PR [#4](https://github.com/Abdurrahman075/trace_moe/pull/4) in [Abdurrahman075/trace_moe](https://github.com/Abdurrahman075/trace_moe)
 <!--END_SECTION:activity-->
