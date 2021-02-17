@@ -27,7 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Abdurrahman075/fayyadh-my-id/pull/4) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
-2. 🎉 Merged PR [#5](https://github.com/Abdurrahman075/fayyadh-my-id/pull/5) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
-3. 🎉 Merged PR [#6](https://github.com/Abdurrahman075/fayyadh-my-id/pull/6) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
+1. 🎉 Merged PR [#2](https://github.com/aoi-discord-bot/assets/pull/2) in [aoi-discord-bot/assets](https://github.com/aoi-discord-bot/assets)
+2. 🎉 Merged PR [#4](https://github.com/Abdurrahman075/fayyadh-my-id/pull/4) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
+3. 🎉 Merged PR [#5](https://github.com/Abdurrahman075/fayyadh-my-id/pull/5) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
 <!--END_SECTION:activity-->
