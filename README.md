@@ -27,7 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Abdurrahman075/fayyadh-my-id/pull/12) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
-2. 🎉 Merged PR [#11](https://github.com/Abdurrahman075/fayyadh-my-id/pull/11) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
-3. 🎉 Merged PR [#9](https://github.com/Abdurrahman075/fayyadh-my-id/pull/9) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
+1. 🎉 Merged PR [#14](https://github.com/Abdurrahman075/fayyadh-my-id/pull/14) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
+2. 🎉 Merged PR [#13](https://github.com/Abdurrahman075/fayyadh-my-id/pull/13) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
+3. 🎉 Merged PR [#12](https://github.com/Abdurrahman075/fayyadh-my-id/pull/12) in [Abdurrahman075/fayyadh-my-id](https://github.com/Abdurrahman075/fayyadh-my-id)
 <!--END_SECTION:activity-->
