@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Javascript & Typescript
 - 😄 Pronouns: he/him
 
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-five-phi.vercel.app/api/spotify)](https://open.spotify.com/user/bffeb7bjhlqns1wmjtcxldhns)
-
 ## GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=Abdurrahman075&show_icons=true&theme=dark)](https://github.com/Abdurrahman075)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman075&layout=compact&theme=dark)](https://github.com/Abdurrahman075)
