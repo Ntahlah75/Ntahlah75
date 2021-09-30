@@ -5,6 +5,7 @@
 
 ## GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=Ntahlah75&show_icons=true&theme=dark)](https://github.com/Ntahlah75)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntahlah75&layout=compact&theme=dark)](https://github.com/Ntahlah75)
 
 ## Language & Tools
